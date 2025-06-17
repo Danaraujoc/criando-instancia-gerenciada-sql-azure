@@ -49,6 +49,8 @@ Acesse o [portal do Azure](https://portal.azure.com) e faça login com sua conta
 - Clique em **"Criar"**
 
 > ![Criar instância gerenciada](images/passo2-instancia.png)
+> ![Criar instância gerenciada](images/passo2-1-instancia.png)
+> ![Criar instância gerenciada](images/passo2-1-2-instancia.png)
 
 ---
 
