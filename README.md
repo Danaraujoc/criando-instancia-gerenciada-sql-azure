@@ -45,6 +45,8 @@ Acesse o [portal do Azure](https://portal.azure.com) e faça login com sua conta
 ### 2. Criar uma Instância Gerenciada
 
 - No menu lateral, clique em **"Criar um recurso"**
+- No menu lateral clique em **"Banco de Dados"**
+- Selecione Azure SQL 
 - Procure por **"SQL Managed Instance"**
 - Clique em **"Criar"**
 
