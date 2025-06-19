@@ -72,10 +72,12 @@ Acesse o [portal do Azure](https://portal.azure.com) e faça login com sua conta
   - Usuário administrador e senha
   - Tamanho da instância
   - Grupo de recursos e região
-- Clique em **"Revisar + criar"** > **"Criar"**
 
 > ![Revisar e criar](images/passo4-revisar.png)
 
+- Clique em **"Revisar + criar"** > **"Criar"**
+  
+> ![Revisar e criar](images/passo4-1-revisar.png)
 ---
 
 ### 5. Conectar-se ao SQL
