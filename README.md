@@ -107,6 +107,6 @@ As imagens capturadas durante o processo de criação estão na pasta [`/images`
 ## 👨‍💻 Autor
 
 Desafio prático de Microsoft Azure – Instância Gerenciada do SQL Server.  
-Documentação elaborada por [Seu Nome Aqui].
+Documentação elaborada por Daniel Araújo.
 
 ---
